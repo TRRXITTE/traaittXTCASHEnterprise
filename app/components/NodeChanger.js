@@ -113,7 +113,7 @@ export default class NodeChanger extends Component<Props, State> {
   };
 
   findNode = () => {
-    remote.shell.openExternal('https://interface.traaitt.com/nodes.html');
+    remote.shell.openExternal('https://interface.traaittcash.com/nodes.html');
   };
 
   handleNodeInputChange = (event: any) => {

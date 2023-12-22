@@ -1,8 +1,8 @@
 {
   "name": "XTCASHEnterprise",
-  "productName": "XTCASHEnterprise",
+  "productName": "traaittEnterprise XTCASH",
   "version": "1.0.0",
-  "description": "XTCASHEnterprise",
+  "description": "traaittcash remote network wallet",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
     "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",
@@ -46,7 +46,7 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "XTCASHEnterprise",
+    "productName": "traaittEnterprise XTCASH",
     "appId": "wallet.traaittcash",
     "files": [
       "app/dist/",
@@ -89,7 +89,7 @@
     "publish": {
       "provider": "github",
       "owner": "TRRXITTE Int., incorporate",
-      "repo": "XTCASHEnterprise",
+      "repo": "traaittEnterpriseXTCASH",
       "private": false
     }
   },
@@ -263,7 +263,7 @@
     "semver": "^6.2.0",
     "source-code-pro": "^2.30.2",
     "tail": "^2.0.3",
-    "@trrxitte/xtcash-wallet-backend": "^0.0.4"
+    "@trrxitte/xtcash-wallet-backend": "^0.0.5"
   },
   "devEngines": {
     "node": ">=10.x",
