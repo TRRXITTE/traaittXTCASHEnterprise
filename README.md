@@ -1,4 +1,4 @@
-# traaittCASH Enterprise wallet
+# XTCASHEnterprise wallet
 <img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/main/docs/currency.png">
 
 <img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/main/docs/XTCASHinterface.png">
