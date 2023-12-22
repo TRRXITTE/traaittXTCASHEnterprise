@@ -1,8 +1,8 @@
 {
   "name": "XTCASHEnterprise",
-  "productName": "traaittEnterprise XTCASH",
+  "productName": "traaittCASH Enterprise",
   "version": "1.0.0",
-  "description": "traaittcash remote network wallet",
+  "description": "Electrum client for XTCASH remotenetwork wallet.",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
     "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",
@@ -46,7 +46,7 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "traaittEnterprise XTCASH",
+    "productName": "traaittCASH Enterprise",
     "appId": "wallet.traaittcash",
     "files": [
       "app/dist/",
@@ -98,7 +98,7 @@
     "url": "git+https://github.com/trrxitte/traaittEnterpriseXTE.git"
   },
   "author": {
-    "name": "TRRXITTE Int., incorporated",
+    "name": "TRRXITTE Int., incorporate",
     "email": "integration@trrxitte.com",
     "url": "https://TRRXITTE.com"
   },
