@@ -1,0 +1,20 @@
+{
+  "walletFile": "",
+  "enableAutoOptimization": true,
+  "scanCoinbaseTransactions": false,
+  "autoSelectDaemon": true,
+  "minimizeToTray": false,
+  "logLevel": "DISABLED",
+  "daemonHost": "asia-east.trrxitte.com",
+  "daemonPort": 14485,
+  "darkMode": false,
+  "displayCurrency": "XTCASH",
+  "selectedFiat": "usd",
+  "fiatSymbol": "$",
+  "symbolLocation": "prefix",
+  "fiatDecimals": 2,
+  "autoLockInterval": 15,
+  "autoLockEnabled": true,
+  "useLocalDaemon": false,
+  "daemonLogPath": ""
+}
