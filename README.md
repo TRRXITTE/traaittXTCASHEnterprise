@@ -3,7 +3,7 @@
 
 <img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/main/docs/XTCASHinterface.png">
 
-#### traaittEnterpriseXTE: [official GitHub Download](https://GitHub.com/trrxitte/traaittEnterpriseXTE/releases) ![Download Count](https://img.shields.io/github/downloads/TRRXITTE/XTCASHEnterprise/total.svg) ![Version](https://img.shields.io/github/v/release/TRRXITTE/XTCASHEnterprise)
+#### traaittEnterpriseXTCASH: [official GitHub Download](https://GitHub.com/trrxitte/XTCASHEnterprise/releases) ![Download Count](https://img.shields.io/github/downloads/TRRXITTE/XTCASHEnterprise/total.svg) ![Version](https://img.shields.io/github/v/release/TRRXITTE/XTCASHEnterprise)
 
 
 #### XTCASH Enterprise is a wallet for XTnetwork.
