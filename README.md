@@ -6,7 +6,7 @@
 
 
 #### traaittEnterpriseXTE: [official GitHub Download](https://GitHub.com/trrxitte/traaittEnterpriseXTE/releases)
-<img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/master/docs/XTCASHinterface.png">
+<img src="https://github.com/TRRXITTE/XTCASHEnterprise/blob/main/docs/XTCASHinterface.png">
 
 
 
