@@ -1706,10 +1706,10 @@
   optionalDependencies:
     "@trrxitte/traaittcash-crypto" "^0.0.1"
 
-"@trrxitte/xtcash-wallet-backend@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@trrxitte/xtcash-wallet-backend/-/xtcash-wallet-backend-0.0.4.tgz#647f58a7c98a8616aaa94877fc85bb79ffbccef6"
-  integrity sha512-7fZtcbvGiavGotcWDX77T42SpwyY0ob05j9YVevRLPjuWzIpRRt80vIu55IhjSegP5mHWab/Cb93eAsJhmP7pw==
+"@trrxitte/xtcash-wallet-backend@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@trrxitte/xtcash-wallet-backend/-/xtcash-wallet-backend-0.0.5.tgz#8f9fb0f1338c304468a05c30a0e6032fe0693a3b"
+  integrity sha512-BcLquUitXtTEojNTCXmfKkw36ZZJ1jGUBe3nJN8SNyneMrdT1bDVSLRh+dHgVR1+s25ST/AK+n//izr/8cCZEQ==
   dependencies:
     "@trrxitte/traaittcash-utils" "^0.0.1"
     lodash "^4.17.15"

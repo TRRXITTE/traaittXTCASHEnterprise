@@ -1,7 +1,7 @@
 {
   "name": "XTCASHEnterprise",
   "productName": "traaittXTCASH Enterprise",
-  "version": "1.0.0",
+  "version": "1.0.00",
   "description": "Electrum client for XTCASH remotenetwork wallet.",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
@@ -46,8 +46,8 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "traaittCASH Enterprise",
-    "appId": "wallet.traaittcash",
+    "productName": "traaittXTCASH Enterprise",
+    "appId": "wallet.traaittxtcash",
     "files": [
       "app/dist/",
       "app/app.html",

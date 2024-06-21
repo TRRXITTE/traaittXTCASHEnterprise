@@ -213,7 +213,7 @@ app.on('ready', async () => {
   }
 
   mainWindow = new BrowserWindow({
-    title: `traaittCASH Enterprise ${version}`,
+    title: `traaittXTCASH Enterprise ${version}`,
     useContentSize: true,
     show: false,
     width: 1200,
