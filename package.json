@@ -1,6 +1,6 @@
 {
   "name": "XTCASHEnterprise",
-  "productName": "traaittCASH Enterprise",
+  "productName": "traaittXTCASH Enterprise",
   "version": "1.0.0",
   "description": "Electrum client for XTCASH remotenetwork wallet.",
   "scripts": {
