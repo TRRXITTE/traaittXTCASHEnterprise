@@ -82,7 +82,7 @@ if (fs.existsSync(`${programDirectory}/addressBook.json`)) {
   fs.writeFileSync(`${programDirectory}/addressBook.json`, '[]');
 }
 
-const daemonLogFile = path.resolve(directories[1], 'XTEnetwork.log');
+const daemonLogFile = path.resolve(directories[1], 'XTCASHnetwork.log');
 const backendLogFile = path.resolve(directories[1], 'wallet-backend.log');
 fs.closeSync(fs.openSync(daemonLogFile, 'w'));
 

@@ -285,7 +285,7 @@ export default class NodeChanger extends Component<Props, State> {
         <br />
         <br />
         <p className={`has-text-weight-bold ${textColor}`}>
-          XTEnetwork.log file location:
+          XTCASHnetwork.log file location:
         </p>
         <div className="field has-addons">
           <div className="control is-expanded">
